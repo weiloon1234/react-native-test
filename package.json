@@ -1,0 +1,55 @@
+{
+  "name": "mhagora",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.3.1",
+    "axios": "^0.18.0",
+    "crc32": "^0.2.2",
+    "create-react-class": "^15.6.3",
+    "idx": "^2.3.0",
+    "moment": "^2.22.1",
+    "moment-timezone": "^0.5.17",
+    "native-base": "^2.4.5",
+    "prop-types": "^15.6.1",
+    "react": "16.3.1",
+    "react-native": "0.55.4",
+    "react-native-deprecated-custom-components": "^0.1.2",
+    "react-native-hyperlink": "^0.0.14",
+    "react-native-indicators": "^0.13.0",
+    "react-native-keyboard-aware-scroll-view": "^0.5.0",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-native-toast": "^0.0.1-security",
+    "react-native-navigation": "^1.1.463",
+    "react-native-photo-view": "^1.5.2",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-navigation": "^2.0.4",
+    "react-redux": "^5.0.7",
+    "react-relay": "^1.6.0",
+    "redux": "^4.0.0",
+    "redux-axios": "^0.0.2",
+    "redux-axios-api-middleware": "^0.3.2",
+    "redux-axios-middleware": "^4.0.0",
+    "redux-axios-reducers": "^0.3.18",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^5.9.1",
+    "redux-thunk": "^2.2.0",
+    "relay-runtime": "^1.6.0",
+    "reselect": "^3.0.1",
+    "tcomb-form-native": "^0.6.13",
+    "react-native-loading-button": "^1.0.2"
+  },
+  "devDependencies": {
+    "babel-jest": "23.0.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "23.0.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

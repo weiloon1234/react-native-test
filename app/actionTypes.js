@@ -1,0 +1,10 @@
+export const APP_LOADING = 'APP_LOADING';
+export const APP_LOADED = 'APP_LOADED';
+
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const USER_FAILED = 'USER_FAILED';
+
+export const SETTING_LOADING = 'SETTING_LOADING';
+export const SETTING_LOADED = 'SETTING_LOADED';
+export const SETTING_FAILED = 'SETTING_FAILED';
